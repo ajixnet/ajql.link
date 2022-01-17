@@ -1,10 +1,10 @@
 {
-  "baseUrl": "https://cass.run",
+  "baseUrl": "https://ajql.link",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "author": "cassidoo",
+  "author": "aj",
   "devDependencies": {
     "netlify-shortener": "^2.4.0"
   }
